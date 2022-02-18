@@ -1,8 +1,8 @@
 #include <ros/ros.h>
-#include <std_msgs/string.h>
+#include <std_msgs/String.h>
 #include <sstream>
 
-int main(int argc, char **argc){
+int main(int argc, char **argv){
     ros::init(argc, argv, "hello_world_node");
     ros::NodeHandle nh;
     ros::Publisher chatter_pub = nh.advertise<std_msgs::String>("say_hello_world", 1000);
