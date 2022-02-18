@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-  <name>my_first_ros_pkg</name>
+  <name>ros_tutorials</name>
   <version>0.0.1</version>
   <description>The my_first_ros_pkg package</description>
   <license>Apache license 2.0</license>

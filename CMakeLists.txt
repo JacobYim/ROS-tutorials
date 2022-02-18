@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(my_first_ros_pkg)
+project(ros_tutorials)
 
 find_package(catkin REQUIRED COMPONENTS
   roscpp

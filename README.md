@@ -1,2 +1,2 @@
-# ROS-tutorials
-This is ROS Tutorial with Kinetics at Ubuntu 16.
+# ros_tutorials
+This is ros_tutorials with Kinetics at Ubuntu 16.
